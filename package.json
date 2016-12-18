@@ -1,0 +1,30 @@
+{
+  "name": "better-midi",
+  "version": "1.0.0",
+  "description": "a better midi js module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AprilWong/better-midi.git"
+  },
+  "keywords": [
+    "midi",
+    "js"
+  ],
+  "author": "April Wong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AprilWong/better-midi/issues"
+  },
+  "homepage": "https://github.com/AprilWong/better-midi#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-replace": "^0.5.4",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-wrap": "^0.13.0"
+  }
+}
